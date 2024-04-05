@@ -1,4 +1,4 @@
-<h1 text-align : center>🧐!ReadME!🧐</h1>
+<h1>🧐!ReadME!🧐</h1>
 
 <h3 >코드는 저의 유용한 단백질이죠... </h3>
 <br>
@@ -50,12 +50,25 @@
   <tr>
     <th>Date</th>
     <th>Project_name</th>
+    <th>project_personnel</th>
     <th>Explanation</th>
+    <th>Position</th>
+  </tr>
+    <tr>
+    <td>2024. 03. 20 ~ 2024. 04. 04</td>
+    <td>도시락 레시피 제공 서비스</td>
+    <td>4명</td>
+    <td>고물가 시대 직장인들을 위한 도시락 가이드 서비스</td>
+    <td>Front-end, Crawling, DB, 문서</td>
   </tr>
   <tr>
     <td>2024. 01. 31 ~ 2024. 02. 02</td>
-    <td></td>
+    <td>고든램지의 요리교실 ( 랜덤 게임 )</td>
+    <td>5명</td>
+    <td>자바를 활용한 랜덤으로 배포된 식재료 이름으로 점수를 내는 게임</td>
+    <td>PM, 디버깅, DB, Back-end, Front-end </td>
   </tr>
+
 </table>
 
 
