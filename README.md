@@ -13,8 +13,8 @@
 </table>
 
 
-<table border=1>
-    <th>⛏️Skills</th>
+<table border=1 solid white>
+    <th colspan =2>⛏️Skills</th>
   <tr>
     <td>💻Front-End</td>
     <td>
