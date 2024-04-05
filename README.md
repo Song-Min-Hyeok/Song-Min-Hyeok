@@ -16,17 +16,18 @@
 <table border=1>
     <th>⛏️Skills</th>
   <tr>
-    <td>DataBase</td>
-    <td>
-      <li>Oracle</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Front-End</td>
+    <td>💻Front-End</td>
     <td>
       <li>JavaScript</li>
       <li>HTML / CSS</li>
       <li>ChartJS</li>
     </td>
   </tr>
+  <tr>
+    <td>🕋DataBase</td>
+    <td>
+      <li>Oracle</li>
+    </td>
+  </tr>
+
 </table>
