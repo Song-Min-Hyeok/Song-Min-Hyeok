@@ -10,11 +10,12 @@
     <li>협업과 소통을 가장 중요시 생각합니다.</li>
   </ul>
 </table>
-<h3>Connect</h3>
+<h1>Connect</h1>
 <ul>
  <a href="https://discord.com/"> <img src="https://img.shields.io/badge/minhhuu01-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </ul>
 
+<h1>⛏️ Skills</h1>
 <table border: 1px solid transparent; width:500px>
     <th colspan =2>⛏️Skills</th>
   <tr>
@@ -42,3 +43,19 @@
   </tr>
 
 </table>
+
+
+<h1>Project</h1>
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Project_name</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td>2024. 01. 31 ~ 2024. 02. 02</td>
+    <td></td>
+  </tr>
+</table>
+
+
