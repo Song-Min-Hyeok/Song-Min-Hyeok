@@ -14,9 +14,7 @@
 
 
 <table border=1>
-  <tr>
     <th>⛏️Skills</th>
-  </tr>
   <tr>
     <td>DataBase</td>
     <td>
