@@ -10,7 +10,10 @@
     <li>협업과 소통을 가장 중요시 생각합니다.</li>
   </ul>
 </table>
-
+<h3>Connect</h3>
+<ul>
+  <li><img src="https://img.shields.io/badge/min_hhuu_-5865F2?style=flat&logo=Discord&logoColor=white"/></li>
+</ul>
 
 <table border: 1px solid transparent; width:500px>
     <th colspan =2>⛏️Skills</th>
