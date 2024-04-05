@@ -46,7 +46,48 @@
 
 
 <h1>Project</h1>
-<table>
+
+<h3>Mini-Project</h3>
+<p>고든램지의 재료 맞추기 스피드런</p>
+<ul>
+  <b>Date</b>
+  <li>2024. 01. 31 ~ 2024. 02. 02</li>
+  <br>
+  <b>project_personnel</b>
+  <li>송민혁, 정은아, 김준혁, 최영재, 오규현</li>
+  <br>
+  <b>Explanation</b>
+  <li>자바를 활용한 랜덤으로 배포된 식재료 이름으로 점수를 내는 게임</li>
+  <br>
+  <b>Position</b>
+  <li>PM, 디버깅, DB, Back-end, Front-end</li>
+  <br>
+</ul>
+<h3>Main-Project</h3>
+<p>도시락 레시피 제공 서비스</p>
+<ul>
+  <b>Date</b>
+  <li>2024. 03. 20 ~ 2024. 04. 04</li>
+  <br>
+  <b>project_personnel</b>
+  <li>장재훈, 김시은, 송민혁, 최영재</li>
+  <br>
+  <b>Explanation</b>
+  <li>고물가 시대 직장인들을 위한 도시락 가이드 서비스</li>
+  <br>
+  <b>Position</b>
+  <li>Front-end, Crawling, DB, 화면설계서/ 요구사항 분석서/ 요구사항 정의서/ 최종발표 ppt 제작</li>
+</ul>
+
+
+
+
+
+
+
+
+
+<!-- <table>
   <tr>
     <th>Date</th>
     <th>Project_name</th>
@@ -55,20 +96,20 @@
     <th>Position</th>
   </tr>
     <tr>
-    <td>2024. 03. 20 ~ 2024. 04. 04</td>
+    <td>24.03.20 ~ 24.04.04</td>
     <td>도시락 레시피 제공 서비스</td>
     <td>4명</td>
     <td>고물가 시대 직장인들을 위한 도시락 가이드 서비스</td>
     <td>Front-end, Crawling, DB, 문서</td>
   </tr>
   <tr>
-    <td>2024. 01. 31 ~ 2024. 02. 02</td>
+    <td>24.01.31 ~ 24.02.02</td>
     <td>고든램지의 요리교실 ( 랜덤 게임 )</td>
     <td>5명</td>
     <td>자바를 활용한 랜덤으로 배포된 식재료 이름으로 점수를 내는 게임</td>
     <td>PM, 디버깅, DB, Back-end, Front-end </td>
   </tr>
 
-</table>
+</table> -->
 
 
