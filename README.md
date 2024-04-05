@@ -29,5 +29,12 @@
       <li>Oracle</li>
     </td>
   </tr>
+  <tr>
+    <td>🏞️Design</td>
+    <td>
+      <li>Pigma</li>
+      <li>Pinterest</li>
+    </td>
+  </tr>
 
 </table>
