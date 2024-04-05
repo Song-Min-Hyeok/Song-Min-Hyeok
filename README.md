@@ -11,3 +11,24 @@
     <li>협업과 소통을 가장 중요시 생각합니다.</li>
   </ul>
 </table>
+
+
+<table>
+  <tr>
+    <th>⛏️Skills</th>
+  </tr>
+  <tr>
+    <td>DataBase</td>
+    <td>
+      <li>Oracle</li>
+    </td>
+  </tr>
+  <tr>
+    <td>Front-End</td>
+    <td>
+      <li>JavaScript</li>
+      <li>HTML / CSS</li>
+      <li>ChartJS</li>
+    </td>
+  </tr>
+</table>
