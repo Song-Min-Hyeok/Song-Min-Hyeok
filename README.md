@@ -29,6 +29,8 @@
       <li>Oracle</li>
     </td>
   </tr>
+
+  
   <tr>
     <td>🏞️Design</td>
     <td>
