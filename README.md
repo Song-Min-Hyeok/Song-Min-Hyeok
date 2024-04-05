@@ -13,7 +13,7 @@
 </table>
 
 
-<table>
+<table border=1>
   <tr>
     <th>⛏️Skills</th>
   </tr>
