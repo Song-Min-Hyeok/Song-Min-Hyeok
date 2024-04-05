@@ -1,4 +1,8 @@
-
+<style>
+  table, th, td{
+    border: 1px solid transparent;
+  }
+</style>
 <h1 text-align : center>🧐!ReadME!🧐</h1>
 
 <h3 >코드는 저의 유용한 단백질이죠... </h3>
@@ -13,7 +17,7 @@
 </table>
 
 
-<table border=1 solid white>
+<table>
     <th colspan =2>⛏️Skills</th>
   <tr>
     <td>💻Front-End</td>
