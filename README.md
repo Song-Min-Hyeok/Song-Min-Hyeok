@@ -12,7 +12,7 @@
 </table>
 <h3>Connect</h3>
 <ul>
-  <img src="https://img.shields.io/badge/minhhuu01-5865F2?style=flat&logo=Discord&logoColor=white"/>
+ <a href="https://discord.com/"> <img src="https://img.shields.io/badge/minhhuu01-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </ul>
 
 <table border: 1px solid transparent; width:500px>
